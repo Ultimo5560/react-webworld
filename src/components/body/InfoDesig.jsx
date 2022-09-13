@@ -5,7 +5,7 @@ const InfoDesig = () => {
     <>
         <div className="info" id="aboutus">
             <picture className="info__img">
-                <img className="info__picture" src="../../public/responsive.svg" alt="" />
+                <img className="info__picture" src="../responsive.svg" alt="" />
             </picture>
             <p className="info__parr">
                 Somos un equipo nuevo que proporciona herramientas

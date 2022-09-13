@@ -83,7 +83,7 @@ const Cards = () => {
             </p>
             
             <picture className="card__img_question">
-              <img className="card__question_img" src="../../public/question.svg" alt="" />
+              <img className="card__question_img" src="../question.svg" alt="" />
             </picture>
           </div>
         </section>

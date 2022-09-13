@@ -15,7 +15,7 @@ export const Anuncios = () => {
   return (
     <>
         <div className="container__anuncios" onLoad={onLoad}>
-          <img className="img_anuncios__one" src="../../../public/design-web-work.jpg" />
+          <img className="img_anuncios__one" src="../design-web-work.jpg" />
         </div>
     </>
     

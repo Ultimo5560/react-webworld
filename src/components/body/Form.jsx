@@ -41,7 +41,7 @@ const Form = () => {
     <>
         <section className="contact" id='contact'>
             <figure className="contact__picture">
-                <img src="../../public/illustration.svg" className="contact__img" />
+                <img src="../illustration.svg" className="contact__img" />
             </figure>
 
             <form className="contact__form" onSubmit={enviarEmail}>

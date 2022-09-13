@@ -39,8 +39,8 @@ const Cabecera = () => {
                     <a className="nav__link" href="#contact">contacto</a>
                 </div>
                 <a href="#menu" className="nav__menu" onClick={onClick}>
-                    <img className="nav__menu_img barr" src='../../public/bx-menu.svg' alt="" />
-                    <img className="nav__menu_img x" src='../../public/bx-x.svg' alt="" />
+                    <img className="nav__menu_img barr" src='../bx-menu.svg' alt="" />
+                    <img className="nav__menu_img x" src='../bx-x.svg' alt="" />
                 </a>
             </nav>
         </header>
